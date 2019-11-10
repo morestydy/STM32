@@ -1,0 +1,30 @@
+Source PCB Design Æ´°å.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[Æ´°å.GTO]
+   Generated File[Æ´°å.GTP]
+   Generated File[Æ´°å.GTS]
+   Generated File[Æ´°å.GTL]
+   Generated File[Æ´°å.GBL]
+   Generated File[Æ´°å.GBS]
+   Generated File[Æ´°å.GBP]
+   Generated File[Æ´°å.GBO]
+   Generated File[Æ´°å.GM1]
+   Generated File[Æ´°å.GM13]
+   Generated File[Æ´°å.GM15]
+   Generated File[Æ´°å.GKO]
+   Generated File[Æ´°å.GPT]
+   Generated File[Æ´°å.GPB]
+   Generated File[Æ´°å.GD1]
+   Generated File[Æ´°å.GG1]
+   Generated File[Æ´°å.RUL]
+   Generated File[Æ´°å.EXTREP]
+   Generated File[Æ´°å.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 21:59:35 On 2019/11/10
